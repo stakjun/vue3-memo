@@ -1,2 +1,2 @@
-export { default as userStore } from './user'
-export { default as indexStore } from './index/index'
+export { default as userStore } from './user';
+export { default as indexStore } from './index/index';
